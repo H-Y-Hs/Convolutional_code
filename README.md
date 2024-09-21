@@ -4,7 +4,7 @@ Project of course in master degree - Convolutional code
 ##Block Diagram
 ![Block Diagram](https://github.com/H-Y-Hs/Convolutional_code/blob/main/Block_Diagram_of_Convolutional_code.jpg?raw=true)
 
-Pseudo code
+# Pseudo code
 ```c
 #define IA 16807
 #define IM 2147483647
@@ -26,3 +26,4 @@ main ()
   ...
 }
 ```
+

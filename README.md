@@ -28,3 +28,4 @@ main ()
 ```
 
 ### Use normal() to output two independent normal random variables, $n_1$ and $n_2$
+

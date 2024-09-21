@@ -62,7 +62,7 @@ ran1(long *idum)
 ```
 
 #####Input Sim.txt
-![normal()](https://github.com/H-Y-Hs/Convolutional_code/blob/main/Sim.txt.jpg?raw=true)
+<img src="https://github.com/H-Y-Hs/Convolutional_code/blob/main/Sim.txt.jpg?raw=true" alt="Sim.txt" width="50%">
 
 ######Notes
 1.  Use Best-state method

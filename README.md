@@ -27,8 +27,8 @@ main ()
 }
 ```
 
-###Use **normal()** to output two independent normal random variables, $n_1$ and $n_2$
-![normal()](https://github.com/H-Y-Hs/Convolutional_code/blob/main/normal.jpg?raw=true)
+### Use **normal()** to output two independent normal random variables, $n_1$ and $n_2$
+<img src="https://github.com/H-Y-Hs/Convolutional_code/blob/main/normal.jpg?raw=true" alt="normal()" width="50%">
 
 ####Use **ran1()** to generate a random variable uniformly distributed in the interval (0, 1).
 ```c

@@ -5,6 +5,6 @@ Project of course in master degree - Convolutional code
 ![Block Diagram](https://github.com/H-Y-Hs/Convolutional_code/blob/main/Block_Diagram_of_Convolutional_code.jpg?raw=true)
 
 Pseudo code
-、、、c
+‵ ‵ ‵c
 #define IA 16807
-、、、
+‵ ‵ ‵

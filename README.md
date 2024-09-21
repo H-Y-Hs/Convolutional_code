@@ -62,3 +62,8 @@ ran1(long *idum)
 ```
 
 ##### Input Sim.txt
+![normal()](https://github.com/H-Y-Hs/Convolutional_code/blob/main/Sim.txt.jpg?raw=true)
+
+###### Notes
+1.  Use Best-state method
+2.  Truncated window length = 32

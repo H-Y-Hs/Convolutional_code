@@ -61,7 +61,7 @@ ran1(long *idum)
 }
 ```
 
-#####Input Sim.txt
+#####Input Sim.txt  
 <img src="https://github.com/H-Y-Hs/Convolutional_code/blob/main/Sim.txt.jpg?raw=true" alt="Sim.txt" width="50%">
 
 ######Notes

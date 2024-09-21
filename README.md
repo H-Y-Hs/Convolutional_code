@@ -4,7 +4,7 @@ Project of course in master degree - Convolutional code
 ##Block Diagram
 ![Block Diagram](https://github.com/H-Y-Hs/Convolutional_code/blob/main/Block_Diagram_of_Convolutional_code.jpg?raw=true)
 
-## Pseudo code
+##Pseudo code
 ```c
 #define IA 16807
 #define IM 2147483647
@@ -30,7 +30,7 @@ main ()
 ### Use normal() to output two independent normal random variables, $n_1$ and $n_2$
 ![normal()](https://github.com/H-Y-Hs/Convolutional_code/blob/main/normal.jpg?raw=true)
 
-#### Use ran1() to generate a random variable uniformly distributed in the interval (0, 1).
+####Use ran1() to generate a random variable uniformly distributed in the interval (0, 1).
 ```c
 ran1(long *idum)
 {
@@ -61,7 +61,7 @@ ran1(long *idum)
 }
 ```
 
-##### Input Sim.txt
+#####Input Sim.txt
 ![normal()](https://github.com/H-Y-Hs/Convolutional_code/blob/main/Sim.txt.jpg?raw=true)
 
 ###### Notes
